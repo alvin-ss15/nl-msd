@@ -1,1 +1,1 @@
-# Nonlinear Mass Spring Damper
+# Nonlinear Mass-Spring-Damper
