@@ -1,1 +1,1 @@
-# nl-msd
+# Nonlinear Mass Spring Damper
